@@ -1,1 +1,2 @@
 = AhaNamuWikiChromeExtension =
+* https://chrome.google.com/webstore/detail/ahanamuwikichromeextensio/dfhkjfenmlmeekbbbiankdmgiekjipai
