@@ -1,2 +1,18 @@
 = AhaNamuWikiChromeExtension =
 * https://chrome.google.com/webstore/detail/ahanamuwikichromeextensio/dfhkjfenmlmeekbbbiankdmgiekjipai
+
+== License ==
+TAMYO
+
+These are mine, yours, and ours.
+
+You can use these codes freely!
+
+Do not hesitate to send me a pull-request.
+
+날가져요 라이센스
+
+코드는 우리 모두의 것입니다. 맘대로 쓰세요.
+
+풀리퀘 보내주면 좋아요.
+
